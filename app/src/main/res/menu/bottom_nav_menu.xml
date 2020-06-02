@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_new"
+        android:icon="@drawable/ic_fiber_new_black_24dp"
+        android:title="@string/title_new" />
+
+    <item
+        android:id="@+id/navigation_popular"
+        android:icon="@drawable/ic_grade_black_24dp"
+        android:title="@string/title_popular" />
+
+</menu>
